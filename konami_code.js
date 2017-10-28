@@ -11,7 +11,7 @@ function init() {
 
         index = 0;
       }
-    } elese {
+    } else {
       index = 0;
     }
   });
