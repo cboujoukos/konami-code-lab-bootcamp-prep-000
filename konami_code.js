@@ -14,5 +14,5 @@ function init() {
     } elese {
       i = 0;
     }
-  })
+  });
 }
